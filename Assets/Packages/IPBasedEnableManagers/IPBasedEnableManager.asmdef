@@ -1,0 +1,14 @@
+{
+    "name": "IPBasedEnableManager",
+    "rootNamespace": "IPBasedEnableManagers",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
