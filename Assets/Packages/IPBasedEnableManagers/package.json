@@ -1,7 +1,7 @@
 {
     "name"       : "com.xjine.ip_based_enable_manager",
     "displayName": "IP Based Enable Manager", 
-    "version"    : "1.0.0",
+    "version"    : "1.1.0",
     "unity"      : "2022.3",
     "description": "Enable/Disable some objects and behaviours based on local IP address.",
     "author"     :

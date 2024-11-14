@@ -259,13 +259,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa22c66fb35c4a94cb91fe223232f32a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  forceActionInEditor: 1
   startAction: 2
   ipAddresses:
   - 192.168.1.1
   targetObjects:
   - {fileID: 808468956}
-  targetBehaviours:
-  - {fileID: 590114467}
+  targetBehaviours: []
 --- !u!1 &808468956
 GameObject:
   m_ObjectHideFlags: 0
